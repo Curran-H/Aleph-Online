@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.thelimpingdogprealpha.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "X:\\Unity\\Projects\\The-Limping-Dog-Pre-Alpha\\The Limping Dog Pre Alpha\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Nick\\OneDrive\\Documents\\GitHub\\Aleph-Online\\The Limping Dog Pre Alpha\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "The Limping Dog Pre Alpha [Testing]"
